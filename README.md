@@ -9,7 +9,7 @@ Aquí se muestran evidencias y pantallazos del desarrollo y funcionamiento.
 - [Python 3](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
 - [Django REST Framework](https://www.django-rest-framework.org/)
-- SQLite (por defecto, o el motor de base de datos configurado)
+- SQLite 
 
 ---
 
