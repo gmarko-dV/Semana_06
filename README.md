@@ -21,4 +21,5 @@ Aquí se muestran evidencias y pantallazos del desarrollo y funcionamiento.
    cd Semana_06
 
 
-![Descripción](./evidencias/1.png)
+![Pasco](./evidencias/1.png)
+![Boza](./evidencias/2.png)
